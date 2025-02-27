@@ -1,0 +1,3 @@
+C:/Users/oicas/AndroidStudioProjects/OpencvTest/opencv/.cxx/Debug/5o396w4h/x86_64/CMakeFiles/opencv_jni_shared.dir
+C:/Users/oicas/AndroidStudioProjects/OpencvTest/opencv/.cxx/Debug/5o396w4h/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/oicas/AndroidStudioProjects/OpencvTest/opencv/.cxx/Debug/5o396w4h/x86_64/CMakeFiles/rebuild_cache.dir
